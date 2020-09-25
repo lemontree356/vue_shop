@@ -10,9 +10,11 @@
     "start": "npm run dev"
   },
   "dependencies": {
+    "echarts": "^4.9.0",
     "element-ui": "^2.4.5",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
+    "lodash": "^4.17.20",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
